@@ -1,0 +1,10 @@
+dataset,side,direction,group,expected_weightHP,manuscript_context
+hemibrain:v1.2.1,R,SIFa_to_target,PDF_positive_LNv,16,Supplementary Table 3 / Results
+male-cns:v1.0,R,SIFa_to_target,PDF_positive_LNv,15,Supplementary Table 3 / Results
+male-cns:v1.0,L,SIFa_to_target,PDF_positive_LNv,3,Supplementary Table 3 / Results
+hemibrain:v1.2.1,R,SIFa_to_target,KC_alpha_beta,169,Supplementary Table 4 / Results
+hemibrain:v1.2.1,R,SIFa_to_target,KC_gamma,37,Supplementary Table 4 / Results
+hemibrain:v1.2.1,R,SIFa_to_target,KC_alpha_prime_beta_prime,9,Supplementary Table 4 / Results
+male-cns:v1.0,L+R,SIFa_to_target,KC_alpha_beta,99,Supplementary Table 4 / Results
+male-cns:v1.0,L+R,SIFa_to_target,KC_gamma,13,Supplementary Table 4 / Results
+male-cns:v1.0,L+R,SIFa_to_target,KC_alpha_prime_beta_prime,5,Supplementary Table 4 / Results

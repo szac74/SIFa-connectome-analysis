@@ -1,0 +1,9 @@
+dataset,direction,side,group,weightHP
+hemibrain:v1.2.1,SIFa_to_target,R,PDF_positive_LNv,16
+hemibrain:v1.2.1,SIFa_to_target,R,fifth_s_LNv_LNd6_associated,1
+hemibrain:v1.2.1,target_to_SIFa,R,PDF_positive_LNv,4
+male-cns:v1.0,SIFa_to_target,L,PDF_positive_LNv,3
+male-cns:v1.0,SIFa_to_target,L+R,PDF_positive_LNv,18
+male-cns:v1.0,SIFa_to_target,R,PDF_positive_LNv,15
+male-cns:v1.0,target_to_SIFa,L+R,PDF_positive_LNv,1
+male-cns:v1.0,target_to_SIFa,R,PDF_positive_LNv,1

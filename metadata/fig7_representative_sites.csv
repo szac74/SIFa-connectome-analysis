@@ -1,0 +1,7 @@
+panel,dataset,sifa_body_id,target_body_id,target_label,evidence,coordinate_role,x_voxel,y_voxel,z_voxel,notes
+K,male-cns:v1.0,10342,11212,l-LNv_R,neuPrint-annotated synaptic site,pre,49423,25175,37422,weightHP=1
+K,male-cns:v1.0,10342,11212,l-LNv_R,neuPrint-annotated synaptic site,post,49437,25171,37425,weightHP=1
+K,male-cns:v1.0,10342,11212,l-LNv_R,neuPrint-annotated synaptic site,midpoint,49430,25173,37424,representative EM location
+M,male-cns:v1.0,512245,535798,KC_alpha_prime_beta_prime_ap1,mesh-screened close apposition,representative_site,59500,17451,18569,global mesh minimum previously approximately 19.595918 nm; not classified as synapse
+O,male-cns:v1.0,10342,535798,KC_alpha_prime_beta_prime_ap1,soma-associated proximity,KC_soma,58086,10280,31792,annotated soma coordinate
+O,male-cns:v1.0,10342,535798,KC_alpha_prime_beta_prime_ap1,soma-associated proximity,SIFa_selected_center,58677,10704,31939,selected SIFa-associated location; not demonstrated direct soma contact

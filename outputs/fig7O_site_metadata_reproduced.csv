@@ -1,0 +1,2 @@
+panel,sifa_body_id,kc_body_id,lod,sifa_selected_center_x_voxel,sifa_selected_center_y_voxel,sifa_selected_center_z_voxel,kc_soma_x_voxel,kc_soma_y_voxel,kc_soma_z_voxel,center_to_soma_distance_nm,center_to_soma_distance_um,interpretation
+O,10342,535798,0,58677.0,10704.0,31939.0,58086.0,10280.0,31792.0,5936.549839763834,5.936549839763834,vicinity of KC soma-associated region; not demonstrated direct soma contact

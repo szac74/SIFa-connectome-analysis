@@ -1,0 +1,19 @@
+{
+  "distance_nm": 19.595917942265423,
+  "distance_um": 0.019595917942265423,
+  "point_a_nm": [
+    476008.0,
+    139607.875,
+    148544.015625
+  ],
+  "point_b_nm": [
+    475992.0,
+    139615.875,
+    148552.015625
+  ],
+  "panel": "M",
+  "sifa_body_id": 512245,
+  "kc_body_id": 535798,
+  "lod": 0,
+  "interpretation": "mesh-screened close apposition; not classified as a synapse"
+}

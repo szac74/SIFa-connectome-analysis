@@ -1,0 +1,10 @@
+dataset,side,direction,group,expected_weightHP,observed_weightHP,match
+hemibrain:v1.2.1,R,SIFa_to_target,PDF_positive_LNv,16,16,True
+male-cns:v1.0,R,SIFa_to_target,PDF_positive_LNv,15,15,True
+male-cns:v1.0,L,SIFa_to_target,PDF_positive_LNv,3,3,True
+hemibrain:v1.2.1,R,SIFa_to_target,KC_alpha_beta,169,169,True
+hemibrain:v1.2.1,R,SIFa_to_target,KC_gamma,37,37,True
+hemibrain:v1.2.1,R,SIFa_to_target,KC_alpha_prime_beta_prime,9,9,True
+male-cns:v1.0,L+R,SIFa_to_target,KC_alpha_beta,99,99,True
+male-cns:v1.0,L+R,SIFa_to_target,KC_gamma,13,13,True
+male-cns:v1.0,L+R,SIFa_to_target,KC_alpha_prime_beta_prime,5,5,True

@@ -1,0 +1,9 @@
+dataset,group,side,body_id,label
+hemibrain:v1.2.1,SIFa,R,699031185,SIFa
+hemibrain:v1.2.1,SIFa,R,1137590785,SIFa
+hemibrain:v1.2.1,SIFa,R,1418618235,SIFa
+hemibrain:v1.2.1,SIFa,R,5813062866,SIFa
+male-cns:v1.0,SIFa,L,11369,DNc01_L
+male-cns:v1.0,SIFa,R,512245,DNc01_R
+male-cns:v1.0,SIFa,R,10342,DNc02(SIFa)_R
+male-cns:v1.0,SIFa,L,10705,DNc02(SIFa)_L
